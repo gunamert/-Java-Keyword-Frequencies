@@ -1,5 +1,5 @@
 /**
- * @author Mert GUNAY-041501007
+ * @author Mert GUNAY
  * @since 26.12.2017
  * @version 1.0
  * @see this program take .java file from the user and check the program keywords count the keywords and print them descending order.
@@ -14,7 +14,7 @@ import java.util.HashSet;
 import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.Set;
-public class Mert_Gunay3 {
+public class Hashing {
 	public static void main(String[] args) throws FileNotFoundException, InterruptedException {
 		System.out.print("Enter the name of the input Java file: ");
 		String SourceFile,temp; 
